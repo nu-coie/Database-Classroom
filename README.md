@@ -1,4 +1,3 @@
-# Database-Classroom
 # Course Overview
 
 ##  Instructor Information
