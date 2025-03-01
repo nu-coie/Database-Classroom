@@ -25,6 +25,3 @@ Students will learn how to:
 ✅ Work with **NoSQL databases** like **Firebase**  
 
 ---
-
-### 📌 Notes  
-This README follows Markdown best practices for better readability on GitHub.  
